@@ -17,7 +17,7 @@ A versão atual é 4.X. Os guias a seguir estão disponíveis para auxiliar nas 
 - [1.0 -> 2.0](./docs/upgrading_to_bigquery_v2.0.md)
 - [0.1 -> 1.0](./docs/upgrading_to_bigquery_v1.0.md)
 
-## Uso
+## Exemplo de uso
 
 O uso básico deste módulo é o seguinte:
 
